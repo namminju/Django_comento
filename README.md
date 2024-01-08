@@ -1,12 +1,12 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=000000&height=300&section=header&text=IGLOO&fontSize=90&fontColor=FFFFFF)
+![header](https://capsule-render.vercel.app/api?type=waving&color=000000&height=300&section=header&text=Conmento_Django 실습&fontSize=90&fontColor=FFFFFF)
 
-<h2 align="center">Conmento_Django 실습</h2>
+<h2 align="center">기획부터 개발까지 파이썬 백엔드 개발 실무 체험</h2>
 
 <h1>기간: 2023.12.29~2024.01.26</h1>
 
-| 이름 | 전공 | 이메일 |
+| 이름 | 소속 | 이메일 |
 | --- | --- | --- |
-| 남민주 | 컴퓨터공학전공 | nampink2300@gmail.com |
+| 남민주 | 동국대학교 | nampink2300@gmail.com |
 
 <h1>🧑🏻‍💻 Skills</h1>
 

@@ -1,10 +1,10 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=000000&height=300&section=header&text=Conmento_Django_실습&fontSize=50&fontColor=FFFFFF)
 
 <h2 align="center">기획부터 개발까지 파이썬 백엔드 개발 실무 체험</h2>
-<h4 align="center">기간: 2023.12.29~2024.01.26</h4>
+<h4 align="center">📅: 2023.12.29~2024.01.26</h4>
 <br/><br/>
 
-<h1>개발자</h1>
+<h1>💻 devleoper</h1>
 
 | 이름 | 소속 | 이메일 |
 | --- | --- | --- |

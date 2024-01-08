@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=000000&height=300&section=header&text=Conmento_Django_실습&fontSize=90&fontColor=FFFFFF)
+![header](https://capsule-render.vercel.app/api?type=waving&color=000000&height=300&section=header&text=Conmento_Django_실습&fontSize=50&fontColor=FFFFFF)
 
 <h2 align="center">기획부터 개발까지 파이썬 백엔드 개발 실무 체험</h2>
 

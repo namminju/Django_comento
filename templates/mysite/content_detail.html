@@ -1,13 +1,18 @@
+
+
 <!DOCTYPE html>
 <html lang="ko">
 <head>
     <meta charset="UTF-8">
-    <title>회사소개</title>
+    <title>상품소개</title>
 </head>
 <body>
 {% extends 'base.html' %}
 {% block content %}
-<h1>회사소개 페이지입니다.</h1>
+<h2>{{ content_list.title }}</h2>
+<div>
+ {{ content_list.content }}
+</div>
 {% endblock %}
 
 </body>
